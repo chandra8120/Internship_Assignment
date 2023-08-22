@@ -1,0 +1,21 @@
+.container_FP {
+    padding: 5px;
+  width: 25%;
+  height: 400;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  flex-wrap: wrap;
+  min-width: 300px;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201101/pngtree-scene-with-geometrical-forms-the-poster-model-minimal-background-render-image_452981.jpg");
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  box-shadow: 0px 10px 12px 0px grey;
+  margin-top: 10%;
+  border-radius: 2%;
+}
+.errorMsg {
+  color: red;
+  font-weight: 500;
+}
